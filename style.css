@@ -1,0 +1,22 @@
+html {
+    font-size: 62, 5%;
+}
+
+body {
+    background: rgb(218, 215, 205);
+    background: linear-gradient(190deg, rgba(218, 215, 205, 1) 10%, rgba(163, 177, 138, 1) 29%, rgba(88, 129, 87, 1) 52%, rgba(58, 90, 64, 1) 75%, rgba(52, 78, 65, 1) 89%);
+}
+
+h1{
+    color: #8d0c53cc;
+    font-size: 1rem;
+    text-align: center;
+    margin: 20px;
+}
+
+h2{
+    color: #092b1e;
+    font-size: 0.5rem;
+    text-align: center;
+    margin-top: 10px;
+}
